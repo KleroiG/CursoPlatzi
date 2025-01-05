@@ -1,0 +1,18 @@
+.header{
+    background-color:rgb(42, 42, 112);
+
+}
+
+.title{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 4px #555555;
+}
+.parrafo{
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
